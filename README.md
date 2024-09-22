@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Un1vexal
-- 👀 I’m interested in linux and programming
-- 🌱 I’m currently learning manjaro linux
+- 👀 I’m interested in linux and and becoming a linux Adminstrator
+- 🌱 I’m currently learning Fedora linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
